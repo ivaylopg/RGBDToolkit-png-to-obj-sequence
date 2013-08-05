@@ -10,6 +10,6 @@ Press 'q' while playing to create an .obj sequence or while paused to create a s
 
 Make sure you have a good amount of memory allocated for Processing in the preferences if you will be using very long image sequences. If you find that it keeps running out of memory, try pausing playback while you're moving the camera around, and then start it again when you find a good angle.
 
-Feel free to improve the code and make changes. Let me know if you have any questions. I've included a sequence of PNGs so you can try the sketch out.
+Feel free to improve the code and make changes. Let me know if you have any questions.
 
 contact@ivaylogetov.com
